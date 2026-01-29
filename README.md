@@ -1,8 +1,8 @@
-# Netflix Clone UI - Production-Grade, Not a Toy
+# Netflix Clone UI 
 
 A production-ready Netflix-style streaming UI built with React, TypeScript, and Tailwind CSS. This is a fully functional frontend application that fetches real movie data from TMDB API.
 
-## 🚀 Features
+##  Features
 
 - **Netflix-style UI** with dark theme and smooth animations
 - **Fully responsive** design (mobile → desktop)
@@ -15,7 +15,7 @@ A production-ready Netflix-style streaming UI built with React, TypeScript, and 
 - **Smooth hover effects** and transitions
 - **Production-grade code structure** with TypeScript
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: React 18 + TypeScript
 - **Build Tool**: Vite
@@ -25,7 +25,7 @@ A production-ready Netflix-style streaming UI built with React, TypeScript, and 
 - **Data Source**: TMDB API (read-only)
 - **Animations**: CSS + Framer Motion (minimal, where justified)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -54,7 +54,7 @@ src/
 └── main.tsx
 ```
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -98,14 +98,14 @@ npm run dev
 
 6. Open your browser and navigate to `http://localhost:5173`
 
-## 📝 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🎨 Key Components
+##  Key Components
 
 ### Loader
 Netflix-style loader animation shown on:
@@ -137,7 +137,7 @@ Full-screen trailer modal with:
 - Keyboard navigation (ESC to close)
 - Click outside to close
 
-## 🔧 Code Quality
+##  Code Quality
 
 - Full TypeScript typing (no `any`)
 - Reusable, composable components
@@ -145,11 +145,11 @@ Full-screen trailer modal with:
 - Clear separation of UI vs data logic
 - Production-level naming and structure
 
-## 📄 License
+##  License
 
 This project is for educational purposes.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [TMDB](https://www.themoviedb.org/) for the movie data API
 - Netflix for the UI inspiration
